@@ -1,4 +1,4 @@
-# aula-2---vari-veis---Entendendo-variaveis-e-seus-valores
+# aula-2---variaveis---Entendendo-variaveis-e-seus-valores
 ***************************************************************************************************************************
 Bootcamp DIO Inter
 
